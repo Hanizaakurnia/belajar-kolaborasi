@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-Path ini digunakan
+Path ini digunakan untuk
